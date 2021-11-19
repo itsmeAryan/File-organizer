@@ -8,7 +8,7 @@ type organize and directorypath
 
 this will organize your folder into categories
 ![Screenshot (112)](https://user-images.githubusercontent.com/85377449/142605079-2d799ebb-d5a9-4d1f-a2e3-c732dd232862.png)
-type tree
 ![Screenshot (113)](https://user-images.githubusercontent.com/85377449/142605083-3b79f248-1c63-4314-b200-2240ae1df1ed.png)
+type tree
 this will make a tree from your folder
 ![Screenshot (114)](https://user-images.githubusercontent.com/85377449/142605090-39d54381-be05-41fe-8c0a-6295ebadf892.png)
